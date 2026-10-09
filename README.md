@@ -40,6 +40,4 @@
 
 ###
 
-<img src="assets/github-snake.svg" alt="Snake animation" />
-
 ###
