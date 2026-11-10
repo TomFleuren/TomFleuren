@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media2.giphy.com/media/i4Q9fhV7QF1zdX4xel/source.gif"  />
+<img align="right" height="180" src="https://media.tenor.com/rWRFpUIzY8AAAAAM/black-and-white.gif"  />
 
 ###
 
