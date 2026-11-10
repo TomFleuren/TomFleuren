@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/rWRFpUIzY8AAAAAM/black-and-white.gif"  />
+<img align="right" height="180" src="https://media.tenor.com/zduaefgRHq4AAAAj/claude-claude-code.gif"  />
 
 ###
 
