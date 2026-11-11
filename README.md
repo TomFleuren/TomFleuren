@@ -19,11 +19,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   <img width="10" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="45" alt="typescript logo"  />
+  <img width="10" />
   <img src="https://images.seeklogo.com/logo-png/29/2/cloudflare-logo-png_seeklogo-294312.png" height="45" alt="cloudflare logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="45" alt="typescript logo"  />
 </div>
 
 ###
